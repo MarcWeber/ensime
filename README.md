@@ -103,6 +103,13 @@ You only need to do this once per project.
     - templates for .ensime files
     - ...
 
+## Vim: Howto create the .enime project file?
+  Either use Emacs :-( or open it and use the provided snipmate snippet in
+  vim/snippets/dot_ensime_config.snippets (quick & dirty solution which worked for me)
+  I also partially implemented a different parsing function which should enable
+  you writing a json based configuration file (totally untested - so expect
+  that you have write a small patch to make it work)
+
 ## Vim installation
 
   Vim plugin dependencies:
