@@ -132,3 +132,13 @@ You only need to do this once per project.
   the inspection view is poor. You can only follow types by :EnsimeInspectTypeById nr
   you can't debug yet (dito)
   ... Probably there is much more I've been missing
+
+## VIM BRANCH status
+
+Vim uses its own branch for now.
+We both (Marc Weber, Aemon Cannon) want a merge. Its my lack of time preventing it at
+the moment. It should be explored whether it was necessary / a good idea to
+drop the toWF and the wireframe class. I don't use Scala that much - so it
+looks to be the less time consuming choice to just update this branch
+occasionally (?)
+Ping me to make it more likely to work on the merge.
