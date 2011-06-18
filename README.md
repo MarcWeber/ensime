@@ -133,6 +133,9 @@ You only need to do this once per project.
   you can't debug yet (dito)
   ... Probably there is much more I've been missing
 
+  Find a place in this readme for links like this:
+  https://github.com/Shadowfiend/liftweb-vim
+
 ## VIM BRANCH status
 
 Vim uses its own branch for now.
