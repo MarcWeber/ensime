@@ -1,3 +1,5 @@
+LOOK AT https://github.com/megaannum/envim which seems to be working with current ensime implementation (at least kind of)
+
 # ENSIME
 the ENhanced Scala Interaction Mode for Emacs
 
